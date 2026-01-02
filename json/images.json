@@ -284,8 +284,8 @@
         "id": "tv2_pad",
         "path": "img/Vanguard_tv-3_launchpad.jpg",
         "tags": [
-            "Vanguard TV-3",
-            "TV3"
+            "Vanguard TV-2",
+            "TV2"
         ],
         "year": 1957,
         "month": 12,
@@ -725,4 +725,5 @@
         "imgh": 3000
     }
 ]
+
 
