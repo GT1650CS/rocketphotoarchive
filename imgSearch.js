@@ -25,9 +25,14 @@ function formatDate(img) {
 }
 
 function matchesTags(img, tokens) {
-    if (tokens.length === 0) return true;
-    const tagSet = new Set((img.tags || []).map(norm));
-    return tokens.some(t => tagSet.has(t)); // OR search
+  if (tokens.length === 0) return true;
+
+  const tags = (img.tags || []).map(t => t.toLowerCase());
+
+  // AND search; every token must appear in at least one tag
+  return tokens.every(tok =>
+    tags.some(tag => tag.includes(tok))
+  );
 }
 
 function escapeHtml(s) {
@@ -126,5 +131,6 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 });
+
 
 
