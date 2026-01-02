@@ -131,8 +131,8 @@
             "Redstone"
         ],
         "year": 1956,
-        "month": null,
-        "day": null,
+        "month": 9,
+        "day": 20,
         "imgw": 3000,
         "imgh": 2238
     },
@@ -172,7 +172,7 @@
     },
     {
         "id": "rs29_pad_1",
-        "path": "img/6414025~orig.jpg",
+        "path": "img/6141025~orig.jpg",
         "tags": [
             "Explorer 1",
             "Juno I",
@@ -203,7 +203,122 @@
         "day": 31,
         "imgw": 910,
         "imgh": 1092
+    },
+    {
+        "id": "tv4_launch",
+        "path": "img/Vanguard_rocket.jpg",
+        "tags": [
+            "Vanguard",
+            "Vanguard TV-4",
+            "Vanguard 1"
+        ],
+        "year": 1958,
+        "month": 3,
+        "day": 17,
+        "imgw": 313,
+        "imgh": 400
+    },
+    {
+        "id": "vanguard_launch",
+        "path": "img/Vanguard_missile_launch.jpg",
+        "tags": [
+            "Vanguard"
+        ],
+        "imgw": 2000,
+        "imgh": 2835
+    },
+    {
+        "id": "tv2_launch",
+        "path": "img/Vanguard_rocket_launch_at_Cape_Canaveral_in_1957.jpg",
+        "tags": [
+            "Vanguard",
+            "Vanguard TV-2"
+        ],
+        "year": 1957,
+        "month": 10,
+        "day": 23,
+        "imgw": 985,
+        "imgh": 2123
+    },
+    {
+        "id": "tv3_launch",
+        "path": "img/Vanguard_rocket_explodes.jpg",
+        "tags": [
+            "Vanguard",
+            "Vanguard TV-3"
+        ],
+        "year": 1957,
+        "month": 12,
+        "day": 6,
+        "imgw": 2400,
+        "imgh": 3000
+    },
+    {
+        "id": "tv4_pad",
+        "path": "img/Vanguard_rocket_vanguard1_satellite.jpg",
+        "tags": [
+            "Vanguard",
+            "Vanguard TV-4",
+            "Vanguard 1"
+        ],
+        "year": 1958,
+        "month": 3,
+        "day": null,
+        "imgw": 260,
+        "imgh": 800
+    },
+    {
+        "id": "tv2_launch_1",
+        "path": "img/Vanguard_Vanguard2_launch.jpg",
+        "tags": [
+            "Vanguard",
+            "Vanguard TV-2"
+        ],
+        "year": 1957,
+        "month": 10,
+        "day": 23,
+        "imgw": 275,
+        "imgh": 369
+    },
+    {
+        "id": "tv2_pad",
+        "path": "img/Vanguard_tv-3_launchpad.jpg",
+        "tags": [
+            "Vanguard",
+            "Vanguard TV-3"
+        ],
+        "year": 1957,
+        "month": 12,
+        "day": null,
+        "imgw": 793,
+        "imgh": 1024
+    },
+    {
+        "id": "slv7_launch",
+        "path": "img/9139356~orig.jpg",
+        "tags": [
+            "Vanguard",
+            "Vanguard SLV-7",
+            "Vanguard 3"
+        ],
+        "year": 1959,
+        "month": 9,
+        "day": 18,
+        "imgw": 2431,
+        "imgh": 3000
+    },
+    {
+        "id": "tv4_pad_1",
+        "path": "img/58PD-06149A~orig.jpg",
+        "tags": [
+            "Vanguard",
+            "Vanguard TV-4",
+            "Vanguard 1"
+        ],
+        "year": 1958,
+        "month": 3,
+        "day": null,
+        "imgw": 2198,
+        "imgh": 2799
     }
 ]
-
-
