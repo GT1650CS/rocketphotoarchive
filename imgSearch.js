@@ -89,7 +89,7 @@ function renderResults(list) {
             <td>${(img.tags || []).map(escapeHtml).join(", ")}</td>
             <td>
               <button class="open-btn" data-id="${escapeHtml(img.id)}">Open</button>
-              <button><a href="${imgUrl(img)}" download>Download</a></button>
+              <a href="${imgUrl(img)}" download>Download</a>
             </td>
           </tr>
         `).join("")}
@@ -126,4 +126,5 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 });
+
 
