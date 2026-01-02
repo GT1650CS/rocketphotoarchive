@@ -39,13 +39,66 @@
             "Redstone",
             "RS-29",
             "RSUE"
+        ]
+    },
+    {
+        "id": "rs27_pad",
+        "path": "img/rs_27.jpg",
+        "tags": [
+            "RS-27",
+            "RSUI",
+            "Jupiter-C",
+            "Redstone"
         ],
-        "year": 1958,
-        "month": 1,
-        "day": 31,
-        "imgw": 1485,
-        "imgh": 1876
+        "year": 1956,
+        "month": 9,
+        "day": 20,
+        "imgw": 591,
+        "imgh": 800
+    },
+    {
+        "id": "rs27_pad_1",
+        "path": "img/rs_27_01.jpg",
+        "tags": [
+            "RS-27",
+            "RSUI",
+            "Jupiter-C",
+            "Redstone"
+        ],
+        "year": 1956,
+        "month": 9,
+        "day": 20,
+        "imgw": 626,
+        "imgh": 800
+    },
+    {
+        "id": "rs27_pad_2",
+        "path": "img/rs_27_02.jpg",
+        "tags": [
+            "RS-27",
+            "RSUI",
+            "Jupiter-C",
+            "Redstone"
+        ],
+        "year": 1956,
+        "month": 9,
+        "day": 20,
+        "imgw": 508,
+        "imgh": 800
+    },
+    {
+        "id": "rs27_pad_3",
+        "path": "img/rs_27_03.jpg",
+        "tags": [
+            "RS-27",
+            "RSUI",
+            "Jupiter-C",
+            "Redstone"
+        ],
+        "year": 1956,
+        "month": 9,
+        "day": 20,
+        "imgw": 594,
+        "imgh": 800
     }
 ]
-
-
