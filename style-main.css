@@ -1,0 +1,34 @@
+#window-layer {
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 9999;
+}
+
+.floating-window {
+    position: absolute;
+    top: 80px;
+    left: 80px;
+    width: min(720px, calc(100% - 32px));
+    pointer-events: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.window-body {
+    overflow: auto;
+    max-height: calc(100vh - 80px);
+}
+
+.floating-window .window-body {
+    flex: 1;
+    overflow: auto;
+    /* scroll if content is too big */
+    min-height: 0;
+}
+
+.floating-window .window-body img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
