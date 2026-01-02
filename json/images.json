@@ -120,5 +120,88 @@
         "day": 20,
         "imgw": 351,
         "imgh": 448
+    },
+    {
+        "id": "rs27_assembly",
+        "path": "img/5700940~orig.jpg",
+        "tags": [
+            "RS-27",
+            "RSUI",
+            "Jupiter-C",
+            "Redstone"
+        ],
+        "year": 1956,
+        "month": 9,
+        "day": 20,
+        "imgw": 3000,
+        "imgh": 2238
+    },
+    {
+        "id": "rs29_flight",
+        "path": "img/0100074~orig.jpg",
+        "tags": [
+            "Explorer 1",
+            "Juno I",
+            "Jupiter-C",
+            "Redstone",
+            "RS-29",
+            "RSUE"
+        ],
+        "year": 1958,
+        "month": 1,
+        "day": 31,
+        "imgw": 2183,
+        "imgh": 3000
+    },
+    {
+        "id": "rs29_flight_1",
+        "path": "img/0100075~orig.jpg",
+        "tags": [
+            "Explorer 1",
+            "Juno I",
+            "Jupiter-C",
+            "Redstone",
+            "RS-29",
+            "RSUE"
+        ],
+        "year": 1958,
+        "month": 1,
+        "day": 31,
+        "imgw": 3000,
+        "imgh": 2327
+    },
+    {
+        "id": "rs29_pad_1",
+        "path": "img/6141025~orig.jpg",
+        "tags": [
+            "Explorer 1",
+            "Juno I",
+            "Jupiter-C",
+            "Redstone",
+            "RS-29",
+            "RSUE"
+        ],
+        "year": 1958,
+        "month": 1,
+        "day": 31,
+        "imgw": 2269,
+        "imgh": 3000
+    },
+    {
+        "id": "rs29_pad_2",
+        "path": "img/9801800~orig.jpg",
+        "tags": [
+            "Explorer 1",
+            "Juno I",
+            "Jupiter-C",
+            "Redstone",
+            "RS-29",
+            "RSUE"
+        ],
+        "year": 1958,
+        "month": 1,
+        "day": 31,
+        "imgw": 910,
+        "imgh": 1092
     }
 ]
