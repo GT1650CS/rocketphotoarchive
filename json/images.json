@@ -131,8 +131,8 @@
             "Redstone"
         ],
         "year": 1956,
-        "month": 9,
-        "day": 20,
+        "month": null,
+        "day": null,
         "imgw": 3000,
         "imgh": 2238
     },
@@ -205,4 +205,5 @@
         "imgh": 1092
     }
 ]
+
 
