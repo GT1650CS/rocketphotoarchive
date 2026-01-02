@@ -1,3 +1,5 @@
+let topZ = 1000;
+
 function showWindow(title, bodyHtml, widthPx = 300) {
     // window presentation layer
     const layer = document.getElementById("window-layer");
@@ -94,6 +96,11 @@ function showWindow(title, bodyHtml, widthPx = 300) {
 
         // avoid text selection while dragging
         e.preventDefault();
+    });
+
+    // put in front
+    win.addEventListener("mousedown", () => {
+        win.style.zIndex = ++topZ;
     });
 
     document.addEventListener("mousemove", (e) => {
