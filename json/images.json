@@ -100,5 +100,20 @@
         "day": 20,
         "imgw": 594,
         "imgh": 800
+    },
+    {
+        "id": "rs27_pad_4",
+        "path": "img/Jupiter_c_pad.jpg",
+        "tags": [
+            "RS-27",
+            "RSUI",
+            "Jupiter-C",
+            "Redstone"
+        ],
+        "year": 1956,
+        "month": 9,
+        "day": 20,
+        "imgw": 351,
+        "imgh": 448
     }
 ]
