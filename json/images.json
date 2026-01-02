@@ -1,6 +1,6 @@
 [
     {
-        "id": "rs27_flight_19560920",
+        "id": "rs27_flight",
         "path": "img/RS-27 in flight.jpg",
         "tags": [
             "RS-27",
@@ -15,7 +15,7 @@
         "imgh": 2448
     },
     {
-        "id": "bw5_pad_19490224",
+        "id": "bw5_pad",
         "path": "img/000346_bumper_wac_01.jpg",
         "tags": [
             "Bumper 5",
@@ -30,7 +30,7 @@
         "imgh": 1926
     },
     {
-        "id": "rs29_pad_19580131",
+        "id": "rs29_pad",
         "path": "img/Nice color photo of RS29.jpg",
         "tags": [
             "Explorer 1",
