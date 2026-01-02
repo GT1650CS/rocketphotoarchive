@@ -5,13 +5,40 @@
         "tags": [
             "RS-27",
             "RSUI",
-            "Jupiter-C"
+            "Jupiter-C",
+            "Redstone"
         ],
         "year": 1956,
         "month": 9,
         "day": 20,
         "imgw": 1680,
         "imgh": 2448
+    },
+    {
+        "id": "bw5_pad_19490224",
+        "path": "img/000346_bumper_wac_01.jpg",
+        "tags": [
+            "Bumper 5",
+            "Bumper-WAC 5",
+            "V-2",
+            "V2"
+        ],
+        "year": 1949,
+        "month": 2,
+        "day": 24,
+        "imgw": 1542,
+        "imgh": 1926
+    },
+    {
+        "id": "rs29_pad_19580131",
+        "path": "img/Nice color photo of RS29.jpg",
+        "tags": [
+            "Explorer 1",
+            "Juno I",
+            "Jupiter-C",
+            "Redstone",
+            "RS-29",
+            "RSUE"
+        ]
     }
-
 ]
