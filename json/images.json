@@ -208,7 +208,8 @@
         "id": "tv4_launch",
         "path": "img/Vanguard_rocket.jpg",
         "tags": [
-            "Vanguard TV-4",
+            "TV-4",
+            "TV4",
             "Vanguard 1"
         ],
         "year": 1958,
@@ -230,7 +231,8 @@
         "id": "tv2_launch",
         "path": "img/Vanguard_rocket_launch_at_Cape_Canaveral_in_1957.jpg",
         "tags": [
-            "Vanguard TV-2"
+            "Vanguard TV-2",
+            "TV2"
         ],
         "year": 1957,
         "month": 10,
@@ -242,7 +244,8 @@
         "id": "tv3_launch",
         "path": "img/Vanguard_rocket_explodes.jpg",
         "tags": [
-            "Vanguard TV-3"
+            "Vanguard TV-3",
+            "TV3"
         ],
         "year": 1957,
         "month": 12,
@@ -254,7 +257,8 @@
         "id": "tv4_pad",
         "path": "img/Vanguard_rocket_vanguard1_satellite.jpg",
         "tags": [
-            "Vanguard TV-4",
+            "TV-4",
+            "TV4",
             "Vanguard 1"
         ],
         "year": 1958,
@@ -267,7 +271,8 @@
         "id": "tv2_launch_1",
         "path": "img/Vanguard_Vanguard2_launch.jpg",
         "tags": [
-            "Vanguard TV-2"
+            "Vanguard TV-2",
+            "TV2"
         ],
         "year": 1957,
         "month": 10,
@@ -279,7 +284,8 @@
         "id": "tv2_pad",
         "path": "img/Vanguard_tv-3_launchpad.jpg",
         "tags": [
-            "Vanguard TV-3"
+            "Vanguard TV-3",
+            "TV3"
         ],
         "year": 1957,
         "month": 12,
@@ -291,7 +297,8 @@
         "id": "slv7_launch",
         "path": "img/9139356~orig.jpg",
         "tags": [
-            "Vanguard SLV-7",
+            "SLV-7",
+            "SLV7",
             "Vanguard 3"
         ],
         "year": 1959,
@@ -304,7 +311,8 @@
         "id": "tv4_pad_1",
         "path": "img/58PD-06149A~orig.jpg",
         "tags": [
-            "Vanguard TV-4",
+            "TV-4",
+            "TV4",
             "Vanguard 1"
         ],
         "year": 1958,
@@ -317,7 +325,8 @@
         "id": "tv4_launch_1",
         "path": "img/580317-O-UX334-697.jpg",
         "tags": [
-            "Vanguard TV-4",
+            "TV-4",
+            "TV4",
             "Vanguard 1"
         ],
         "year": 1958,
@@ -330,7 +339,8 @@
         "id": "tv3_pad",
         "path": "img/Vanguard_TV-3_prelaunch1.jpg",
         "tags": [
-            "Vanguard TV-3"
+            "Vanguard TV-3",
+            "TV3"
         ],
         "year": 1957,
         "month": 12,
@@ -342,7 +352,8 @@
         "id": "tv3_pad_1",
         "path": "img/Vanguard_TV-3_prelaunch.jpg",
         "tags": [
-            "Vanguard TV-3"
+            "Vanguard TV-3",
+            "TV3"
         ],
         "year": 1957,
         "month": 12,
@@ -354,7 +365,8 @@
         "id": "tv3_launch_1",
         "path": "img/Vanguard_TV_3.jpg",
         "tags": [
-            "Vanguard TV-3"
+            "Vanguard TV-3",
+            "TV3"
         ],
         "year": 1957,
         "month": 12,
@@ -367,6 +379,7 @@
         "path": "img/Vanguard_TV-0.jpg",
         "tags": [
             "Vanguard TV-0",
+            "TV0",
             "Viking 13"
         ],
         "year": 1956,
@@ -380,6 +393,7 @@
         "path": "img/Vanguard_TV-1_prep_DXM.jpg",
         "tags": [
             "Vanguard TV-1",
+            "TV1",
             "Viking 14"
         ],
         "year": 1957,
@@ -393,6 +407,7 @@
         "path": "img/19561208-Vanguard-TV-0-01.jpg",
         "tags": [
             "Vanguard TV-0",
+            "TV0",
             "Viking 13"
         ],
         "year": 1956,
@@ -406,6 +421,7 @@
         "path": "img/19561208-Viking-13-TV-0-01-1.jpg",
         "tags": [
             "Vanguard TV-0",
+            "TV0",
             "Viking 13"
         ],
         "year": 1956,
@@ -418,7 +434,8 @@
         "id": "tv2_assembly",
         "path": "img/19571023-Vanguard-TV-2-03.jpg",
         "tags": [
-            "Vanguard TV-2"
+            "Vanguard TV-2",
+            "TV2"
         ],
         "year": 1957,
         "month": 10,
@@ -442,7 +459,8 @@
         "id": "tv3_pad_2",
         "path": "img/19571206-Vanguard-TV-3-06.jpg",
         "tags": [
-            "Vanguard TV-3"
+            "Vanguard TV-3",
+            "TV3"
         ],
         "year": 1957,
         "month": 12,
@@ -454,7 +472,8 @@
         "id": "tv3_launch_2",
         "path": "img/19571206-Vanguard-TV-3-07.jpg",
         "tags": [
-            "Vanguard TV-3"
+            "Vanguard TV-3",
+            "TV3"
         ],
         "year": 1957,
         "month": 12,
@@ -466,7 +485,8 @@
         "id": "tv4_launch_2",
         "path": "img/19580317-Vanguard-TV-4-12-1.jpg",
         "tags": [
-            "Vanguard TV-4",
+            "TV-4",
+            "TV4",
             "Vanguard 1"
         ],
         "year": 1958,
