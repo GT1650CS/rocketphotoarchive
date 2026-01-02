@@ -508,5 +508,220 @@
         "day": null,
         "imgw": 4185,
         "imgh": 4983
+    },
+    {
+        "id": "redstone_test2",
+        "path": "img/Redstone_Test_Stand_and_Missile_Test_02_original_047018pu.jpg",
+        "tags": [
+            "Redstone",
+            "Static Test 2"
+        ],
+        "year": 1953,
+        "month": null,
+        "day": null,
+        "imgw": 3000,
+        "imgh": 4000
+    },
+    {
+        "id": "redstone_test3",
+        "path": "img/9513303~orig.jpg",
+        "tags": [
+            "Redstone",
+            "Static Test 3"
+        ],
+        "year": 1953,
+        "month": null,
+        "day": null,
+        "imgw": 2089,
+        "imgh": 3000
+    },
+    {
+        "id": "redstone_1002_pad",
+        "path": "img/5800669~orig.jpg",
+        "tags": [
+            "Redstone 1002"
+        ],
+        "year": 1958,
+        "month": 5,
+        "day": 16,
+        "imgw": 2340,
+        "imgh": 3000
+    },
+    {
+        "id": "usarmy_redstone",
+        "path": "img/9248167~orig.jpg",
+        "tags": [
+            "Redstone"
+        ],
+        "year": null,
+        "month": null,
+        "day": null,
+        "imgw": 2684,
+        "imgh": 3000
+    },
+    {
+        "id": "redstone",
+        "path": "img/9248143~orig.jpg",
+        "tags": [
+            "Redstone"
+        ],
+        "year": null,
+        "month": null,
+        "day": null,
+        "imgw": 2238,
+        "imgh": 3000
+    },
+    {
+        "id": "rs06_launch",
+        "path": "img/5800039~orig.jpg",
+        "tags": [
+            "Redstone",
+            "RSXV",
+            "RS-06"
+        ],
+        "year": 1954,
+        "month": 11,
+        "day": 17,
+        "imgw": 2404,
+        "imgh": 3000
+    },
+    {
+        "id": "cc2040_launch",
+        "path": "img/LOD-KSC-61C-413~orig.jpg",
+        "tags": [
+            "Redstone",
+            "CC-2040"
+        ],
+        "year": 1961,
+        "month": 3,
+        "day": 8,
+        "imgw": 2400,
+        "imgh": 3000
+    },
+    {
+        "id": "am-1a_launch",
+        "path": "img/5700514~orig.jpg",
+        "tags": [
+            "Jupiter",
+            "AM-1A",
+            "AM1A"
+        ],
+        "year": 1957,
+        "month": 3,
+        "day": 1,
+        "imgw": 2417,
+        "imgh": 3000
+    },
+    {
+        "id": "am-19b_pad",
+        "path": "img/9801801~orig.jpg",
+        "tags": [
+            "Jupiter",
+            "Juno II",
+            "AM-19B",
+            "AM19B"
+        ],
+        "year": 1959,
+        "month": 8,
+        "day": 14,
+        "imgw": 809,
+        "imgh": 1200
+    },
+    {
+        "id": "junoii_pad",
+        "path": "img/0102332~orig.jpg",
+        "tags": [
+            "Jupiter",
+            "Juno II"
+        ],
+        "year": null,
+        "month": null,
+        "day": null,
+        "imgw": 2202,
+        "imgh": 3000
+    },
+    {
+        "id": "am-19a_launch",
+        "path": "img/5900711~orig.jpg",
+        "tags": [
+            "Jupiter",
+            "Juno II",
+            "AM-19A",
+            "AM19A",
+            "Explorer VII",
+            "Explorer 7"
+        ],
+        "year": 1959,
+        "month": 10,
+        "day": 13,
+        "imgw": 2045,
+        "imgh": 3000
+    },
+    {
+        "id": "am-14_pad",
+        "path": "img/5900120~orig.jpg",
+        "tags": [
+            "Jupiter",
+            "Juno II",
+            "AM-14",
+            "AM14",
+            "Pioneer IV",
+            "Pioneer 4"
+        ],
+        "year": 1959,
+        "month": 3,
+        "day": 3,
+        "imgw": 2045,
+        "imgh": 3000
+    },
+    {
+        "id": "am-14_launch",
+        "path": "img/5900123~orig.jpg",
+        "tags": [
+            "Jupiter",
+            "Juno II",
+            "AM-14",
+            "AM14",
+            "Pioneer IV",
+            "Pioneer 4"
+        ],
+        "year": 1959,
+        "month": 3,
+        "day": 3,
+        "imgw": 2355,
+        "imgh": 3000
+    },
+    {
+        "id": "am-14_launch_1",
+        "path": "img/5900128~orig.jpg",
+        "tags": [
+            "Jupiter",
+            "Juno II",
+            "AM-14",
+            "AM14",
+            "Pioneer IV",
+            "Pioneer 4"
+        ],
+        "year": 1959,
+        "month": 3,
+        "day": 3,
+        "imgw": 2248,
+        "imgh": 3000
+    },
+    {
+        "id": "am-19f_pad",
+        "path": "img/61C-327~orig.jpg",
+        "tags": [
+            "Jupiter",
+            "Juno II",
+            "AM-19F",
+            "AM19F",
+            "Explorer S-45"
+        ],
+        "year": 1961,
+        "month": 2,
+        "day": 24,
+        "imgw": 2400,
+        "imgh": 3000
     }
 ]
